@@ -1,0 +1,11 @@
+let D = B ** 2 - 4 * A * C;
+  if (D > 0) {
+    let x1 = (-B - Math.sqrt(D)) / (2 * A);
+    let x2 = (-B + D) / (2 * A);
+    alert(" IF D = 0 then define one solution X1 = " + x1 + " X2 = " + x2);
+  } else if (D === 0) {
+    let x1 = (-B - Math.sqrt(D)) / (2 * A);
+    alert("IF D = 0 then define one solution X = " + x1);
+  } else {
+    alert(" solution is't exist, D = " + D);
+  }

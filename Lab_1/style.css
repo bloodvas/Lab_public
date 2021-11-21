@@ -1,0 +1,76 @@
+body {
+  background: rgb(245, 239, 234);
+  font-family: sans-serif;
+  margin: 20px; auto;
+
+}
+p{
+	font-family: Urbanist;
+	font-size: 20px;
+}
+content{
+	width: 100%;
+	display: flex;
+	align-content: center;
+}
+.HEADER{
+	width: 100%;
+	background-color: #FFAC00FF;
+	color: white;
+	text-align: center;
+	padding: 10px 0 10px 0;
+	border-radius: 50px;
+
+}
+.MAINCONTENT{
+	width: 50%;
+	height: 300px;
+	margin:20px 20px 20px 0px;
+	background-color: #FFAC00FF;
+	color: white;
+	display: inline-block;
+	text-align: center;
+	padding: 20px;
+	border-radius: 50px;
+	align-content: center;
+
+
+}
+.SIDEBAR{
+	margin:20px 0px 20px 20px;
+	width: 50%;
+	height: 300px;
+	background-color: #FFAC00FF;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	display: inline-block;
+	border-radius: 50px;
+	
+}
+.FOOTER{
+	width: 100%;
+	background-color: #FFAC00FF;
+	color: white;
+	text-align: center;
+	padding: 10px 0 10px 0;
+	border-radius: 50px;
+
+}
+.SIDEBAR a{
+	background-color: white;
+	color: #FFAC00FF;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 50px;
+	display: block;
+	margin-bottom: 20px;
+	font-size: 25px;
+	}
+.button{
+	display: block;
+	margin-left: 40%;
+}
+input{
+	margin-bottom: 20px;
+}

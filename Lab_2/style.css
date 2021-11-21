@@ -1,0 +1,146 @@
+body{
+	margin:50px, auto;
+	overflow-x: hidden;
+}
+p{
+	font-size: 25px;
+}
+
+.HEADER {
+  width: 100%;
+  color: #595959FF;
+  border-radius: 50px;
+  text-align: center;
+  margin-top: 20px;
+
+
+}
+.dropdown{
+	display: inline-block;
+}
+.logo{
+	background-color: red;
+	color: white;
+	border-radius: 100px;
+	padding: 2.5px 13px 2.5px 13px;
+	font-size: 30px;
+	margin-left: 10px;
+}
+.map
+{
+	background-color: #8C8C8CD0;
+	color: white;
+	border-radius: 50px;
+	padding: 0px 10px 2.5px 10px;
+	font-size: 25px;
+}
+.menu {
+	margin-top: 20px;
+	display: block;
+}
+
+
+
+.MAINCONTENT{
+	width: 100%;
+	height: 400px;
+	margin:50px;
+	background-image: url(images/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash.jpg);
+	text-align: center;
+	border-radius: 10px;
+	background-size: cover;
+}
+.add-ad
+{
+	background-color: #14EA80FF;
+	color: white;
+	border-radius: 10px;
+	padding: 2.5px 5px 2.5px 10px;
+	font-size: 25px;
+	margin-right: 10px;	
+}
+.input
+{
+	background-color: #8C8C8CD0;
+	color: #595959FF;
+	border-radius: 50px;
+	padding: 5px 15px 5px 15px;
+	font-size: 25px;
+	margin-left: 10px;
+}
+.MAINCONTENT h1{
+	display: block;
+	color: white;
+	padding-top: 20px;
+	margin-bottom: 70px;
+	font-size: 25px;
+
+}
+content{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.block{
+	float: left;	
+	margin-top: 45px;
+	width: 100%;
+	padding-left: 100px;
+	text-align: left;
+	margin-bottom: 20px;
+
+}
+nav{
+	display: inline;
+	float: left;
+}
+
+.form-control{
+	width: 500px;
+}
+.btn-group .btn{
+	background-color: #8C8C8CD0;
+	color: white;
+}
+.foot-block{
+	width: 40%;
+}
+.card{
+	display: inline;
+}
+#carouselExampleCaptions{
+	width: 630px;
+	height: 800px;
+	background-size: cover;
+	margin-left: 50px;
+}
+#button{
+	margin-top: 11%;
+	background-color: #8C8C8CD0;
+	text-align: center;
+	margin-left: 50px;
+	width: 630px;
+	margin-bottom: 50px;	
+	padding: 5px;
+	color: white;
+	border-radius: 10px;	
+
+}
+.describe-one{
+	width: 100%;
+	background-color: #EBE6D0FF;
+
+}
+.describe-two{
+
+	width: 100%;
+	background-color: #4B4639FF;
+}
+.container .row{
+	padding-left: 100px;
+}
+.describe-two a{
+	display: block;
+	text-decoration: none;
+	color: grey;
+}
